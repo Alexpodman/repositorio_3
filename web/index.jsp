@@ -12,7 +12,7 @@
         <div>
             <ul>
                 <li><a href="index.jsp">Inicio</a></li>
-                <li><a href="index.jsp">Rama 1</a></li>
+                <li><a href="login.jsp">Login/a></li>
             </ul>
         </div>
     </body>
