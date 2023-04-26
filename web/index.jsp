@@ -9,5 +9,10 @@
         <div>
             <h1>Git y JSP</h1>
         </div>
+        <div>
+            <ul>
+                <li><a href="index.jsp">Inicio</a></li>
+            </ul>
+        </div>
     </body>
 </html>
