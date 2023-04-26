@@ -11,7 +11,7 @@
             <form action="action">
                 <label>Usuario: <input type="text"></label>
                 <label>Contraseña: <input type="text"></label>
-                <button type='submit'>
+                <input type="submit" value="Iniciar sesion">
             </form>
         </div>
     </body>

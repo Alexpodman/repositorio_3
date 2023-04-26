@@ -12,7 +12,7 @@
         <div>
             <ul>
                 <li><a href="index.jsp">Inicio</a></li>
-                <li><a href="login.jsp">Login/a></li>
+                <li><a href="login.jsp">Login</li>
             </ul>
         </div>
     </body>
