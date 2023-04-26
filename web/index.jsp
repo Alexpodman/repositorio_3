@@ -7,11 +7,12 @@
     </head>
     <body>
         <div>
-            <h1>Git y JSP</h1>
+            <h1>Rama 1</h1>
         </div>
         <div>
             <ul>
                 <li><a href="index.jsp">Inicio</a></li>
+                <li><a href="index.jsp">Rama 1</a></li>
             </ul>
         </div>
     </body>
